@@ -1,4 +1,3 @@
-<!-- Replace the src with your actual banner image file name once you upload it to this repo -->
 <div align="center">
   <img src="Banner.png" alt="LinkedIn Banner" width="100%" />
 </div>
@@ -19,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Gearing up to begin my **B.Tech in Computer Science Engineering**.
-- 🌱 Currently learning **Python** and exploring **Web Development** opportunities.
+- 🌱 Currently exploring **Web Development** opportunities.
 - 🤝 Actively seeking to connect with like-minded individuals to expand my knowledge and foster professional growth.
 - 📫 Check out my social links below to connect!
 
@@ -40,14 +39,9 @@
   <p><b>Core Languages</b></p>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
-  </p>
-
-  <br/>
-
-  <p><b>Currently Learning</b></p>
-  <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </p>
+
 </div>
 
 <br/>
@@ -60,5 +54,8 @@
   </a>
   <a href="https://www.hackerrank.com/atul_2710">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:atulofficialx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
