@@ -53,6 +53,18 @@
 <br/>
 
 <div align="center">
+  <h3>📈 GitHub Stats</h3>
+  <br/>
+  
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=atul-2710&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-2710&layout=compact&theme=radical&hide_border=true&exclude_repo=pengu-cart&v=2" alt="Top Languages" />
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🌐 Connect with Me</h3>
   <br/>
   <a href="https://www.linkedin.com/in/atul-singh2710">
