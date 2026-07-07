@@ -38,7 +38,8 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
   </p>
   
   <br/>
@@ -48,6 +49,26 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-2710&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 GitHub Contribution</h3>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-2710/atul-2710/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atul-2710/atul-2710/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atul-2710/atul-2710/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
