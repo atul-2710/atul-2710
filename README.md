@@ -56,7 +56,9 @@
 <div align="center">
   <h3>📈 Contribution Activity</h3>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-2710&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-2710&bg_color=transparent&color=2196F3&line=2196F3&point=2196F3&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+
 </div>
 
 <br/>
